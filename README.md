@@ -1,4 +1,4 @@
-# Tact Language Compiler
+# Tact Language Compiler ⚡️
 
 <div align="center">
 
